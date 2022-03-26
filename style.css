@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: lightblue;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    color:orange;
+    border: 3px solid violet;
+    border-radius: 20px;
+}
+
+footer p{
+    border-collapse: collapse;
+    border:3px solid gray
+}
+
+nav{
+    text-align: center;
+    padding: 6px;
+    margin: auto;
+    border:2px solid lightblue; 
+}
+nav a{
+    text-decoration: none;
+}
+
+
+.a{
+    padding: 5px;
+    border-radius: 8px;
+    border: 3px solid blue
+}
+
+h2{
+    font-size: 40px;
+    color: blue;
+}
+
+.b{
+    border:3px solid blue;
+    padding: 7px;
+    text-decoration: none;
+}
